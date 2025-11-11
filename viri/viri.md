@@ -15,3 +15,4 @@ https://www.gov.si/teme/slovenci-na-hrvaskem/
 
 
 https://www.rtvslo.si/rtv365/arhiv/175171642?s=mmc
+https://sl.wikipedia.org/wiki/Kategorija:Zamejski_Slovenci
