@@ -5,3 +5,5 @@ https://upload.wikimedia.org/wikipedia/commons/5/51/Carta_identita_prov_Trieste.
 https://sl.wikipedia.org/wiki/Slika:Tarvis_Luschariberg_1903.jpg
 
 https://fran.si/204/sla-slovenski-lingvisticni-atlas/datoteke/SLA_Karta-narecij.pdf
+
+https://slovenscina9.weebly.com/polo381aj-slovenscaron268ine.html
