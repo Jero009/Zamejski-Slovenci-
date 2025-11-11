@@ -3,3 +3,5 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Klagenfurt_Landhaus_Gr
 https://upload.wikimedia.org/wikipedia/commons/5/51/Carta_identita_prov_Trieste.jpg
 
 https://sl.wikipedia.org/wiki/Slika:Tarvis_Luschariberg_1903.jpg
+
+https://fran.si/204/sla-slovenski-lingvisticni-atlas/datoteke/SLA_Karta-narecij.pdf
