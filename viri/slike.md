@@ -13,3 +13,5 @@ https://sl.wikipedia.org/wiki/Seznam_slovenskih_etnologov
 https://www.nadlani.si/uploads/2025/10/majstrovi-borci-wikipedija.jpg
 
 https://www.savel-hobi.net/leksikon/zgodovina_sl/slovenija6.htm
+
+https://sl.wikipedia.org/wiki/Koro%C5%A1ki_plebiscit
