@@ -16,5 +16,6 @@ https://www.savel-hobi.net/leksikon/zgodovina_sl/slovenija6.htm
 
 https://sl.wikipedia.org/wiki/Koro%C5%A1ki_plebiscit
 
-
 https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Plakat_ob_plebiscitu_Koro%C5%A1ci%2C_spoznajte_zrnje_1920.jpg/250px-Plakat_ob_plebiscitu_Koro%C5%A1ci%2C_spoznajte_zrnje_1920.jpg
+
+https://nova24tv.si/na-danasnji-dan-mineva-98-let-od-koroskega-plebiscita/koroska-plebiscit/
