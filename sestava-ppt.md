@@ -1,10 +1,18 @@
-uvod
-Kdo so zamejci
-kje so zamejci
-zakaj /zgodovina
+
+- Kdo so zamejci
+- kje so zamejci
+- zakaj /zgodovina
+
   plebiscit
-predstavitev v državah
+  
+  
+- predstavitev v državah
+  
   pravice
-  dvoježičnost 
+  
+  dvoježičnost
+  
   upoštevanje
-kultura
+  
+  
+- kultura
