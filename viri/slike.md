@@ -7,3 +7,5 @@ https://sl.wikipedia.org/wiki/Slika:Tarvis_Luschariberg_1903.jpg
 https://fran.si/204/sla-slovenski-lingvisticni-atlas/datoteke/SLA_Karta-narecij.pdf
 
 https://slovenscina9.weebly.com/polo381aj-slovenscaron268ine.html
+
+https://sl.wikipedia.org/wiki/Seznam_slovenskih_etnologov
