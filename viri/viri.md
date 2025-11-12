@@ -22,3 +22,5 @@ https://sl.wikipedia.org/wiki/Vindi%C5%A1arska_teorija
 
 plebiscit
 https://www.nadlani.si/novice/slovenija-bi-lahko-bila-vecja-a-slovenci-so-se-odlocili-drugace-kje-bi-bila-danes-meja/
+
+https://www.siclj.si/prispevki/propaganda-v-koroskem-plebiscitu/
