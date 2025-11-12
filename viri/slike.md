@@ -11,3 +11,5 @@ https://slovenscina9.weebly.com/polo381aj-slovenscaron268ine.html
 https://sl.wikipedia.org/wiki/Seznam_slovenskih_etnologov
 
 https://www.nadlani.si/uploads/2025/10/majstrovi-borci-wikipedija.jpg
+
+https://www.savel-hobi.net/leksikon/zgodovina_sl/slovenija6.htm
