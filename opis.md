@@ -15,20 +15,24 @@
     *   **Spodaj na sredini:** Velika fotografija hlebca sira z značilno razpokano skorjo.
     *   **Ostali elementi:** Dva siva, motna ovalna in okrogla elementa, ki služita kot grafična popestritev.
 
-#### **Diapozitiv 2: Kdo so zamejci?**
-*   **Splošna postavitev:** Ozadje je svetlo bež barve in spominja na milimetrski papir. Na dnu je okrasna črna črta, sestavljena iz prepletenih zank.
-*   **Naslov:** Na desni strani je z velikimi črnimi tiskanimi črkami napisano: `kdo so zamejci`.
-*   **Definicija:** Pod naslovom je v belem pravokotniku z zaobljenimi robovi zapisana preprosta definicija: `slovenci izven slovenije`.
+#### **Diapozitiv: Zamejci in Izseljenci**
+*   **Splošna postavitev:** Ozadje je popolnoma belo, brez mreže ali teksture. Na dnu je okrasna črna črta, sestavljena iz prepletenih zank. Na levi strani sta dva tortna diagrama, na desni pa naslov in definicije.
+*   **Naslov:** Na desni strani je z velikimi črnimi tiskanimi črkami napisano: `zamejci in izseljenci`.
+*   **Definicije:** Pod naslovom je v belem pravokotniku z zaobljenimi robovi zapisana razlaga dveh pojmov:
+    *   `zamejci`
+        *   `avtohtono prebivalstvo`
+    *   `izseljenci`
+        *   `zapustili slovenijo`
 *   **Vizualni elementi (diagrami):**
-    *   **Zgornji tortni diagram:** Prikazuje porazdelitev zamejcev po sosednjih državah. Skupno število je označeno kot `sosednje 122500`. Rezine so:
-        *   `Italija 80000` (temno zelena, največji del)
+    *   **Zgornji tortni diagram:** Prikazuje porazdelitev zamejcev po sosednjih državah. Rezine so:
+        *   `Italija 80000` (zelena, največji del)
         *   `Avstrija 25000` (rdeča)
-        *   `Hrvaška 14000` (zlato-rjava)
+        *   `Hrvaška 14000` (rumena)
         *   `Madžarska 3500` (temno modra)
-    *   **Spodnji tortni diagram:** Prikazuje razmerje med zamejci in ostalimi Slovenci po svetu. Rezine so:
+    *   **Spodnji tortni diagram:** Prikazuje porazdelitev Slovencev po svetu, vključno z zamejci. Skupna vrednost zamejcev je označena kot `sosednje 122500`. Rezine so:
         *   `S. Amerika 350000` (rdeča, največji del)
+        *   `sosednje 122500` (modra)
         *   `Evropa 95000` (svetlo zelena)
-        *   `sosednje 122500` (temno modra)
         *   `J. Amerika 30000` (rumena)
         *   `Oceanija 22000` (svetlo modra)
 
@@ -151,6 +155,23 @@
         *   Modra (AT Avstrija): Začne nizko, strmo naraste do leta 2011 na cca. 50.000, nato stagnira.
         *   Rdeča (HR Hrvaška): Prikazuje stalen, zmeren padec.
         *   Oranžna (HU Madžarska): Je ves čas nizka in relativno stabilna.
+
+#### **Diapozitiv: Rešitve**
+
+*   **Splošna postavitev:** Ozadje je svetlo bež barve z rahlo vidno mrežo, ki spominja na milimetrski papir. Na dnu je okrasna črna črta, sestavljena iz prepletenih zank. Na levi strani je velika slika slovenske zastave v krogu, na desni pa naslov in okvir z besedilom.
+*   **Naslov:** Na desni strani zgoraj je z velikimi črnimi tiskanimi črkami napisano: `rešitve`.
+*   **Besedilo (seznam možnih rešitev):** V belem pravokotniku z zaobljenimi robovi je seznam, razdeljen na tri tematske sklope:
+    *   **Digitalno:**
+        *   `Vsebine za mlade (TikTok, Podcasti)`
+        *   `Aplikacije za jezik, digitalni arhivi`
+    *   **Gospodarstvo:**
+        *   `Podpora podjetništvu`
+        *   `Dvojezičnost kot prednost`
+    *   **EU:**
+        *   `Sredstva (Interreg, Erasmus+)`
+        *   `Pravna zaščita, odprte meje`
+*   **Vizualni elementi:**
+    *   Na levi strani diapozitiva je velika, stilizirana podoba slovenske zastave, upodobljena v krožni obliki. Zgornji del kroga je bel, srednji moder in spodnji rdeč. V zgornjem levem delu kroga je slovenski grb, ki prikazuje Triglav, dve valoviti modri črti (simbol morja in rek) ter tri zlate šesterokrake zvezde. Celoten krog ima tanek črn obris.
 
 #### **Diapozitiv 11: Zahvala**
 *   **Splošna postavitev:** Enako temno ozadje in mreža kot na prvem diapozitivu. Kolaž slik obdaja osrednje besedilo.
