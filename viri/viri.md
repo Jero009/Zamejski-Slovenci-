@@ -12,6 +12,8 @@ https://www.nsks.at/za_vas_fuer_euch/sl/C23/sholstvo-nsks
 MDŽ
 https://www.gov.si/teme/slovenci-na-madzarskem/
 
+https://www.zveza.hu/sl/
+
 HR
 https://www.gov.si/teme/slovenci-na-hrvaskem/
 
