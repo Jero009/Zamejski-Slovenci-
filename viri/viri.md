@@ -26,3 +26,6 @@ https://www.nadlani.si/novice/slovenija-bi-lahko-bila-vecja-a-slovenci-so-se-odl
 https://www.siclj.si/prispevki/propaganda-v-koroskem-plebiscitu/
 
 https://sl.wikipedia.org/wiki/Koro%C5%A1ki_plebiscit
+
+po svetu
+https://www.gov.si/teme/slovenci-v-evropi/
