@@ -7,6 +7,8 @@ https://www.gov.si/teme/slovenci-v-italiji/
 AV
 https://www.gov.si/teme/slovenci-v-avstriji/
 
+https://www.nsks.at/za_vas_fuer_euch/sl/C23/sholstvo-nsks
+
 MDŽ
 https://www.gov.si/teme/slovenci-na-madzarskem/
 
