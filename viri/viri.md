@@ -29,7 +29,12 @@ https://sl.wikipedia.org/wiki/Koro%C5%A1ki_plebiscit
 
 po svetu
 https://www.gov.si/teme/slovenci-v-evropi/
+
 https://www.gov.si/podrocja/zunanje-zadeve/slovenci-zunaj-slovenije/slovenci-po-svetu/
+
 https://www.gov.si/teme/slovenci-v-severni-ameriki/
+
 https://www.gov.si/teme/slovenci-v-juzni-ameriki/
+
 https://www.gov.si/teme/slovenci-v-avstraliji/
+
