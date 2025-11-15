@@ -33,7 +33,16 @@
 ## Diapozitiv 4: Zgodovina
 
 *   **Naslov:** `zgodovina`.
-*   **Besedilo:** Časovnica ključnih zgodovinskih dogodkov od razpada Avstro-Ogrske (1918) do Osimskih sporazumov (1975).
+*   **Besedilo:** 6.stol naselitev Slovanov
+7.stol Karantanija
+8. - 19.stol izguba samostojnosti
+Avstro‑Ogrska (do 1918)
+1918–1920: nove meje (Trianon/Rapallo)
+1920: Koroški plebiscit (10. 10. 1920)
+1920–1945: italijanizacija; spori za Trst
+1954: London Memorandum (zone A/B)
+1975: Osimo — dokončna meja
+.
 *   **Vizualni elementi:**
     *   Zemljevid Svobodnega tržaškega ozemlja (Cona A in B).
     *   Zgodovinski "Zemljovid Slovenskih Dežel".
