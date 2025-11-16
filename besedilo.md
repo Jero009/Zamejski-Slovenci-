@@ -2,15 +2,15 @@
 # Besedilo za Govor ob Predstavitvi
 
 ### **(Diapozitiv 1: Naslovni diapozitiv)**
-Dober dan vsem. Moje ime je Jernej Peter in danes vam bom predstavil temo narodno mešanih območij in zamejskih Slovencev. To je zgodba o skupnostih, ki so jih zgodovinske okoliščine pustile zunaj meja Slovenije, a so kljub temu ohranile svojo kulturo, jezik in identiteto.
+Dober dan danes vam bom predstavil zamejske slovence in narodno mešana območja
 
 ### **(Diapozitiv 2: Zamejci in Izseljenci)**
-Začnimo z osnovno, a ključno razliko med dvema pojmoma:
+kdo pa sploh so zamejci? 
+**Zamejci** so, avtohtono prebivalstvo. To pomeni, da živijo na ozemlju, kjer so bili njihovi predniki doma že stoletja. Ključno je, da se oni niso preselili; država in meja sta se premaknili čez njih.
+medtem ko so 
+**Izseljenci** ljudje, ki so aktivno zapustili Slovenijo in se preselili v druge države po svetu, največkrat zaradi ekonomskih ali političnih razlogov.
 
-**Zamejci** so, kot vidite, avtohtono prebivalstvo. To pomeni, da živijo na ozemlju, kjer so bili njihovi predniki doma že stoletja. Ključno je, da se oni niso preselili; država in meja sta se premaknili čez njih.
-**Izseljenci** pa so ljudje, ki so aktivno zapustili Slovenijo in se preselili v druge države po svetu, največkrat zaradi ekonomskih ali političnih razlogov.
-
-Kot prikazuje zgornji diagram, je v sosednjih državah okoli 120 tisoč zamejcev. Največja skupnost, s približno 80.000 pripadniki, živi v Italiji, sledi Avstrija s 25.000. Spodnji diagram pa zamejce postavlja v širši svetovni kontekst, kjer vidimo, da so le del veliko večje slovenske diaspore.
+Kot lahko vidimo na diagramu je najvec izseljencev v severni ameriki to je kanada zda in mehika jih je pa tudi nekaj v južni ameriki in oceaniji
 
 ### **(Diapozitiv 3: Kje se nahajajo?)**
 Torej, kje natančno se nahajajo te skupnosti? Zemljevid na desni lepo prikazuje območja njihove poselitve.
